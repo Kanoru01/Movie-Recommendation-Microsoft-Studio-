@@ -28,6 +28,9 @@ The histogram shows that movies with runtimes of approximately 90 to 120 minutes
 Movies released in the months of May, June, July and November had the highest ROI's compared to other months with September, October and December having the lowest ROI's.
 ![Average ROI of film release by month](https://user-images.githubusercontent.com/104419109/169700006-e470a52a-5d6d-4cac-93e2-5f4fde533586.png)
 
+![Top 10 Grossing Studios](https://user-images.githubusercontent.com/104419109/169755019-fb328793-d2f9-424a-a1a2-950c895673f5.png)
+From the plot above, Affirm studio was the top earner domestically,however, it ranked fifth in the top grossing studios globally. This shows a difference in the top grossing studios with reference to domestic and worlwide profit margins. Movie studios that performed well domestically did really mean that they would be top earners globally.
+
 ## Conclusions
 The following conclusions can be made from the analysis of the movie data:
 
